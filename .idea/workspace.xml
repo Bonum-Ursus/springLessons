@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25ec3439-9934-4d7f-8698-03e78cd34613" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coach/BasketballCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coach/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coach/HappyFortuneService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/coach/BaseballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/BasketballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/coach/BasketballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/coach/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/HelloSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/coach/HelloSpringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/coach/TrackCoach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +36,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Interface" />
         <option value="spring-beans.schema" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -212,7 +218,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581586754364</updated>
-      <workItem from="1581586757480" duration="3556000" />
+      <workItem from="1581586757480" duration="5424000" />
     </task>
     <servers />
   </component>
@@ -228,10 +234,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="30" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581587361872" />
-    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1581590260474">
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1581593193214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581590260474" />
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581593193214" />
     <state x="168" y="182" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1581586997910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -240,22 +246,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581587065638" />
-    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1581589846423">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1581593259306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581589846423" />
-    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1581589846423">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581593259306" />
+    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1581593259306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581589846423" />
-    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1581589846423">
+    <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581593259306" />
+    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1581593259306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581589846423" />
-    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1581589846423">
+    <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581593259306" />
+    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1581593259306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581589846423" />
+    <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581593259306" />
     <state width="619" height="281" key="GridCell.Tab.1.bottom" timestamp="1581588191019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
