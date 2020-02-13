@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25ec3439-9934-4d7f-8698-03e78cd34613" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coach/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coach/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/BetterFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/RandomFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sport.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/coach/BaseballCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/BasketballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/coach/BasketballCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/coach/Coach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/HelloSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/coach/HelloSpringApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/coach/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/BaseballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/BasketballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/BasketballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/FortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/FortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/HappyFortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/HappyFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/HelloSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/HelloSpringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coach/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/TrackCoach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coach/BaseballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coach/BaseballCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coach/BasketballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coach/BasketballCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coach/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coach/Coach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coach/HelloSpringApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coach/HelloSpringApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coach/TrackCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coach/TrackCoach.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +88,11 @@
   </component>
   <component name="RunManager" selected="Application.HelloSpringApp">
     <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coach.HelloSpringApp" />
+      <option name="MAIN_CLASS_NAME" value="inversionOfControl.HelloSpringApp" />
       <module name="SpringLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coach.*" />
+          <option name="PATTERN" value="inversionOfControl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coach.MyApp" />
+      <option name="MAIN_CLASS_NAME" value="inversionOfControl.MyApp" />
       <module name="SpringLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coach.*" />
+          <option name="PATTERN" value="inversionOfControl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,7 +227,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581586754364</updated>
-      <workItem from="1581586757480" duration="5424000" />
+      <workItem from="1581586757480" duration="9348000" />
     </task>
     <servers />
   </component>
@@ -234,10 +243,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="30" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581587361872" />
-    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1581593193214">
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1581596923762">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581593193214" />
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581596923762" />
     <state x="168" y="182" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1581586997910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -246,22 +255,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581587065638" />
-    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1581593259306">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1581597527557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581593259306" />
-    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1581593259306">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581597527557" />
+    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1581597527557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581593259306" />
-    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1581593259306">
+    <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581597527557" />
+    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1581597527557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581593259306" />
-    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1581593259306">
+    <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581597527557" />
+    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1581597527557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581593259306" />
+    <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581597527557" />
     <state width="619" height="281" key="GridCell.Tab.1.bottom" timestamp="1581588191019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -298,5 +307,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581587614916" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1581596341320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581596341320" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package coach;
+package inversionOfControl;
 
 public class BaseballCoach implements Coach{
     private FortuneService fortuneService;
@@ -10,6 +10,11 @@ public class BaseballCoach implements Coach{
     @Override
     public String getFortune() {
         return fortuneService.getFortune();
+    }
+
+    @Override
+    public void setFortuneService(FortuneService fortuneService) {
+        this.fortuneService = fortuneService;
     }
 
     public BaseballCoach(FortuneService fortuneService) {

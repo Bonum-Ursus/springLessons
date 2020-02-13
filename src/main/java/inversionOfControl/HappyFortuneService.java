@@ -1,4 +1,4 @@
-package coach;
+package inversionOfControl;
 
 public class HappyFortuneService implements FortuneService{
     @Override

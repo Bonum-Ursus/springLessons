@@ -1,4 +1,4 @@
-package coach;
+package inversionOfControl;
 
 public class MyApp {
     public static void main(String[] args) {
