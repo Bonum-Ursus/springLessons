@@ -14,6 +14,10 @@ public class MyMainClass {
         Coach coach2 = context.getBean("footballCoach", Coach.class);
         System.out.println(coach2.getDailyWorkout());
         System.out.println(coach2.getDailyFortune());
+
+        System.out.println(
+                context.getBean("computerScienceCoach", Coach.class).getDailyFortune());
+
         context.close();
     }
 }
