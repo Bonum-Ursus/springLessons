@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25ec3439-9934-4d7f-8698-03e78cd34613" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/MySecondMainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/annotations/FootballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotations/FootballCoach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -249,7 +249,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581586754364</updated>
       <workItem from="1581586757480" duration="9348000" />
-      <workItem from="1581935537563" duration="6234000" />
+      <workItem from="1581935537563" duration="6772000" />
     </task>
     <servers />
   </component>
@@ -281,22 +281,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581587065638" />
-    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1581942634671">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1581943367998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581942634671" />
-    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1581942634670">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581943367998" />
+    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1581943367998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581942634670" />
-    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1581942634670">
+    <state width="914" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581943367998" />
+    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1581943367998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581942634670" />
-    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1581942634671">
+    <state width="914" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581943367998" />
+    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1581943367998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581942634671" />
+    <state width="914" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581943367998" />
     <state width="619" height="281" key="GridCell.Tab.1.bottom" timestamp="1581588191019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -329,6 +329,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="619" height="281" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581588191019" />
+    <state x="970" y="175" key="Maven.ArtifactSearchDialog" timestamp="1581943112640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="970" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581943112640" />
     <state x="0" y="98" key="SettingsEditor" timestamp="1581587614916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
