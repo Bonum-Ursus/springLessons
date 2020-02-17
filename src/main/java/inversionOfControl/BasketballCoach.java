@@ -1,6 +1,6 @@
 package inversionOfControl;
 
-public class BasketballCoach implements Coach{
+public class BasketballCoach implements Coach {
     private FortuneService fortuneService;
     private String className = BasketballCoach.class.getName();
 

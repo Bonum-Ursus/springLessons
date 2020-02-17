@@ -2,25 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25ec3439-9934-4d7f-8698-03e78cd34613" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/BetterFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/RandomFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/sport.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/springLessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/FootballCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/MyMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/TennisCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/annot.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/BaseballCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/BasketballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/BasketballCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/Coach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/FortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/FortuneService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/HappyFortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/HappyFortuneService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/HelloSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/HelloSpringApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/MyApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coach/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/TrackCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/coach/BaseballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coach/BaseballCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/coach/BasketballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coach/BasketballCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/coach/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coach/Coach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/coach/HelloSpringApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coach/HelloSpringApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/coach/TrackCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coach/TrackCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inversionOfControl/BasketballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/BasketballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/SpringLessons.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +68,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -86,10 +80,17 @@
     <property name="project.structure.side.proportion" value="0.38045976" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.HelloSpringApp">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\springLessons\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyMainClass">
     <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="inversionOfControl.HelloSpringApp" />
-      <module name="SpringLessons" />
+      <module name="springLessons" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="inversionOfControl.*" />
@@ -106,6 +107,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="inversionOfControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotations.MyMainClass" />
+      <module name="springLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +198,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.Tomcat 9.0.29" />
       <item itemvalue="Application.MyApp" />
       <item itemvalue="Application.HelloSpringApp" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.29" />
+      <item itemvalue="Application.MyMainClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyMainClass" />
         <item itemvalue="Application.HelloSpringApp" />
         <item itemvalue="Application.MyApp" />
       </list>
@@ -228,6 +244,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581586754364</updated>
       <workItem from="1581586757480" duration="9348000" />
+      <workItem from="1581935537563" duration="4080000" />
     </task>
     <servers />
   </component>
@@ -235,6 +252,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1157" y="179" key="#HelloSpringApp" timestamp="1581935899908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1157" y="179" key="#HelloSpringApp/0.0.1920.1040@0.0.1920.1040" timestamp="1581935899908" />
     <state x="168" y="182" key="#Project_Structure" timestamp="1581587058778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -243,10 +264,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="30" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581587361872" />
-    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1581596923762">
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1581938114640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581596923762" />
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581938114640" />
     <state x="168" y="182" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1581586997910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -255,22 +276,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581587065638" />
-    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1581597527557">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1581939660000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581597527557" />
-    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1581597527557">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581939660000" />
+    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1581939660000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581597527557" />
-    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1581597527557">
+    <state width="914" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581939660000" />
+    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1581939660000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581597527557" />
-    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1581597527557">
+    <state width="914" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581939660000" />
+    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1581939660000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581597527557" />
+    <state width="914" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581939660000" />
     <state width="619" height="281" key="GridCell.Tab.1.bottom" timestamp="1581588191019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
