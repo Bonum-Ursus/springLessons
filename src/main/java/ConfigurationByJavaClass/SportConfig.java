@@ -1,19 +1,20 @@
 package ConfigurationByJavaClass;
 
-import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.*;
 import org.w3c.dom.ls.LSOutput;
 
 @Configuration
 @ComponentScan("ConfigurationByJavaClass")
+@PropertySource("sport.properties")
 public class SportConfig {
-    public static void main(String[] args) {
-        AnnotationConfigApplicationContext context =
-                new AnnotationConfigApplicationContext(SportConfig.class);
-        Coach coach = context.getBean("trackCoach", Coach.class);
-        System.out.println(coach.getDailyWorkout());
-        System.out.println(coach.getDailyFortune());
+    @Bean
+    public FortuneService fireFortune(){
+        return new FireFortune();
+    }
+
+    @Bean
+    public Coach swimCoach(){
+        return new SwimCoach(fireFortune());
     }
 
 }

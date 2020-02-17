@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25ec3439-9934-4d7f-8698-03e78cd34613" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConfigurationByJavaClass/MainFortune.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConfigurationByJavaClass/TrackCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/ComputerScienceCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fortuneText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConfigurationByJavaClass/FireFortune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConfigurationByJavaClass/MyMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConfigurationByJavaClass/SwimCoach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/annotations/MyMainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotations/MyMainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/annotations/MyMainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/annotations/MyMainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConfigurationByJavaClass/SportConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConfigurationByJavaClass/SportConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sport.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sport.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ConfigurationByJavaClass/SportConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ConfigurationByJavaClass/SportConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sport.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sport.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.38045976" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -80,7 +81,7 @@
       <recent name="C:\Users\User\IdeaProjects\springLessons\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SportConfig">
+  <component name="RunManager" selected="Application.MyMainClass (1)">
     <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inversionOfControl.MyApp" />
-      <module name="SpringLessons" />
+    <configuration name="MyMainClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConfigurationByJavaClass.MyMainClass" />
+      <module name="springLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inversionOfControl.*" />
+          <option name="PATTERN" value="ConfigurationByJavaClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,20 +220,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyApp" />
       <item itemvalue="Application.HelloSpringApp" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.29" />
       <item itemvalue="Application.MyMainClass" />
       <item itemvalue="Application.MySecondMainClass" />
       <item itemvalue="Application.SportConfig" />
+      <item itemvalue="Application.MyMainClass (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyMainClass (1)" />
         <item itemvalue="Application.SportConfig" />
         <item itemvalue="Application.MyMainClass" />
         <item itemvalue="Application.MySecondMainClass" />
         <item itemvalue="Application.HelloSpringApp" />
-        <item itemvalue="Application.MyApp" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +270,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581586754364</updated>
       <workItem from="1581586757480" duration="9348000" />
-      <workItem from="1581935537563" duration="9045000" />
+      <workItem from="1581935537563" duration="11068000" />
     </task>
     <servers />
   </component>
@@ -289,10 +290,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="30" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581587361872" />
-    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1581945175813">
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1581947113091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581945175813" />
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581947113091" />
     <state x="168" y="182" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1581586997910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -301,22 +302,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581587065638" />
-    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1581945576093">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1581947343404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581945576093" />
-    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1581945576093">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581947343404" />
+    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1581947343404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581945576093" />
-    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1581945576092">
+    <state width="914" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581947343404" />
+    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1581947343404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581945576092" />
-    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1581945576093">
+    <state width="914" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581947343404" />
+    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1581947343404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581945576093" />
+    <state width="914" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581947343404" />
     <state width="619" height="281" key="GridCell.Tab.1.bottom" timestamp="1581588191019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -353,10 +354,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="970" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581943112640" />
-    <state x="0" y="98" key="SettingsEditor" timestamp="1581587614916">
+    <state x="782" y="170" width="1040" height="836" key="SettingsEditor" timestamp="1581947699754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581587614916" />
+    <state x="782" y="170" width="1040" height="836" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581947699754" />
     <state x="1249" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581944092004">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
